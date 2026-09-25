@@ -19,7 +19,7 @@ except ImportError:
 # ============================================================
 # CONFIG
 # ============================================================
-BOT_TOKEN = "8754288681:AAHBG28k6NbtKwFLoDwqNrkoDTFu5UCDUWA"
+BOT_TOKEN = "8754288681:AAEPM-jntmZafaxqj7CgbvHQBlT0kt6kWxw"
 ADMIN_ID = [7634875658]
 OWNER_USERNAME = "@Maarkryan"
 COIN_FILE = "coins.json"
